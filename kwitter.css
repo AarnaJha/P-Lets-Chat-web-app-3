@@ -1,0 +1,17 @@
+body{
+    background-color: skyblue;
+}
+h1{
+    font-family: cursive;
+    background-color: rgb(217, 255, 0);
+}
+#login_button{
+
+    background-color: chocolate;
+}
+#logo{
+
+width:300px;
+height: 300px;
+
+}
